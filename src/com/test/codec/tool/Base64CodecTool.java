@@ -30,7 +30,7 @@ public class Base64CodecTool {
 		}
 	}
 	/**
-	 * 将base64编码格式转化为字符串
+	 * 将base64编码格式转化为字符串形式
 	 * @param code
 	 * @return
 	 */
